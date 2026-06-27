@@ -1,0 +1,27 @@
+MODEL PERFORMANCE
+==================================================
+
+Model: Random Forest
+Accuracy : 0.8852
+Precision: 0.8387
+Recall   : 0.9286
+F1 Score : 0.8814
+
+--------------------------------------------------
+
+Model: Logistic Regression
+Accuracy : 0.8689
+Precision: 0.8125
+Recall   : 0.9286
+F1 Score : 0.8667
+
+--------------------------------------------------
+
+Model: Decision Tree
+Accuracy : 0.7377
+Precision: 0.6765
+Recall   : 0.8214
+F1 Score : 0.7419
+
+--------------------------------------------------
+
